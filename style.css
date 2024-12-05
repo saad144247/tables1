@@ -1,0 +1,18 @@
+.karachi{
+    color: blue;
+}
+
+.karachi:hover{
+    background-color: aqua;
+}
+
+body{
+    background-image: url(aleksandra-khaprenko-0PPw9irzLIw-unsplash.jpg);
+    background-size: cover;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+
+.dubai{
+    color: blue;
+}
